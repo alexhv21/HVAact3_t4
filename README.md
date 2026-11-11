@@ -8,8 +8,13 @@
 **Repositorio GitHub:** [https://github.com/alexhv21/HVAact3_t4](https://github.com/alexhv21/HVAact3_t4)
 
 ---
+## Enlaces de Producción (VPS)
+
+* **Interfaz Web (Thymeleaf):** [http://204.48.17.197:8086/productos](http://204.48.17.197:8086/productos)
+* **API REST (JSON para Postman):** [http://204.48.17.197:8086/api/productos](http://204.48.17.197:8086/api/productos)
 
 ## Enlaces Rápidos de Producción (VPS)
+
 
 * **Listar Productos (GET - Read All):** [http://204.48.17.197:8086/api/productos](http://204.48.17.197:8086/api/productos)
 * **Crear Producto (POST - Create):** `POST http://204.48.17.197:8086/api/productos/crear?categoriaId=1`
